@@ -23,7 +23,7 @@ const Room = () => {
 
         {
           name: "Copy Link",
-          url: `http://localhost:5173/room/join/roomID/${roomID}`
+          url: `https://group-meet.vercel.app/room/join/roomID/${roomID}`
         }
       ],
       scenario: {
